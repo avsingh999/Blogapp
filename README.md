@@ -19,6 +19,9 @@ npm install ejs --save
 ```
 npm install method-override -save
 ```
+```
+npm install express-saintizer --save
+```
 
 ## Author
 Avkaran singh
