@@ -16,5 +16,9 @@ npm install express mongoose body-parser --save
 ```
 npm install ejs --save
 ```
+```
+npm install method-override -save
+```
+
 ## Author
 Avkaran singh
