@@ -22,6 +22,16 @@ npm install method-override -save
 ```
 npm install express-saintizer --save
 ```
+## Run
+```
+mongod
+```
+```
+node app.js
+```
+```
+localhost:5150
+```
 
 ## Author
 Avkaran singh
